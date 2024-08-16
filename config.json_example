@@ -3,6 +3,6 @@
     "DB_HOST": "host",
     "DB_USER": "username",
     "DB_PASSWORD": "password",
-    "DB_PORT": port,
+    "DB_PORT": "port",
     "DB_NAME": "DB name"
 }
