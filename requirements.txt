@@ -1,3 +1,4 @@
 confluent_kafka
 mysql-connector-python
 matplotlib
+requests
